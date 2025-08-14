@@ -68,9 +68,5 @@ To push your changes to GitHub:
 - [Go Official Documentation](https://golang.org/doc/)
 - [A Tour of Go](https://tour.golang.org/)
 - [Go by Example](https://gobyexample.com/)
-- [DevOps with Go](https://www.digitalocean.com/community/tutorials/how-to-build-a-devops-pipeline-with-go)
-- [Go Cloud Development Kit](https://gocloud.dev/)
-- [Go Security Best Practices](https://blog.golang.org/security)
-
 ---
 Happy coding!
