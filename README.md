@@ -4,10 +4,7 @@
 Hi! I'm a BCA 3rd semester student passionate about DevOps, Cloud, and Cybersecurity. This repository documents my journey learning Go (Golang), with practical code samples, exercises, and notes. My goal is to build a strong foundation in Go while exploring how it connects to modern infrastructure and security practices.
 
 
-## Folder Structure
 
-- `hello-world/`  
-   Basic "Hello, World!" example in Go.
 
 
 ## Getting Started
