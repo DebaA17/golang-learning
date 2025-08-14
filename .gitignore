@@ -1,0 +1,35 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output of the go coverage tool
+*.out
+
+# Temporary files created by editors
+*~
+*.swp
+*.swo
+
+# Vendor directory (if using Go modules)
+vendor/
+
+# Ignore environment files for secrets
+.env
+
+# Ignore compiled object files
+*.o
+
+# Ignore logs and debug files
+*.log
+
+# Ignore IDE/editor config folders
+.vscode/
+.idea/
+*.iml
+
+# Ignore build directories (if you create any)
+bin/
+build/
